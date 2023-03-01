@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/asus/X00TD" name="LineageOS/android_device_asus_X00TD" remote="github" revision="lineage-20" />
+ <project path="device/asus/sdm660-common" name="LineageOS/android_device_asus_sdm660-common.git" remote="github" revision="lineage-20" />
+ <project path="vendor/asus/X00TD" name="TheMuppets/proprietary_vendor_asus_X00TD.git" remote="github" revision="lineage-20" />
+ <project path="kernel/asus/X00TD" name="mybday123/android_kernel_asus_sdm660.git" remote="github" revision="test" />
+ 
+</manifest>
